@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.1 ExceptionHandling(`try-catch`)PracticeTask", "7.1 ExceptionHandling(`try-catch`)PracticeTask.csproj", "{581BC14E-F8D4-4AE8-9695-C2723A80B5AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581BC14E-F8D4-4AE8-9695-C2723A80B5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581BC14E-F8D4-4AE8-9695-C2723A80B5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581BC14E-F8D4-4AE8-9695-C2723A80B5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581BC14E-F8D4-4AE8-9695-C2723A80B5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC97952E-8274-4D4E-B2A2-49414A8498B5}
+	EndGlobalSection
+EndGlobal

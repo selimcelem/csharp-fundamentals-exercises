@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.1 BuildingLogicalThinking", "21.1 BuildingLogicalThinking.csproj", "{7563FC71-C016-4AEE-8318-FB665FA4B427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.1 BuildingLogicalThinkingMultTable", "21.1 BuildingLogicalThinkingMultTable.csproj", "{D4BB2A27-D415-74AE-550F-EFC2C9015012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7563FC71-C016-4AEE-8318-FB665FA4B427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7563FC71-C016-4AEE-8318-FB665FA4B427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7563FC71-C016-4AEE-8318-FB665FA4B427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7563FC71-C016-4AEE-8318-FB665FA4B427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BB2A27-D415-74AE-550F-EFC2C9015012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BB2A27-D415-74AE-550F-EFC2C9015012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BB2A27-D415-74AE-550F-EFC2C9015012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BB2A27-D415-74AE-550F-EFC2C9015012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2C0DFD2-EC0E-4FDC-8C9A-B197A69A32E6}
+	EndGlobalSection
+EndGlobal
